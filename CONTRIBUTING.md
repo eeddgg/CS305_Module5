@@ -1,9 +1,9 @@
-#Basic Rules
+# Basic Rules
 ____
 1. Be nice to each other
-2. Don't make the button offensiveBasic Rules
+2. Don't make the button offensive
 
-#contributors
+# contributors
 ____
 Ethan Green: @eeddgg
 
