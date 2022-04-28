@@ -3,7 +3,8 @@ ____
 1. Be nice to each other
 2. Don't make the button offensive
 
-# contributors
+# Contributors
 ____
-Ethan Green: @eeddgg
+* Ethan Green: @eeddgg
+* Conrad Murphy: @Conrad-Murphy
 
