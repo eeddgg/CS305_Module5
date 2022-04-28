@@ -5,6 +5,6 @@ ____
 
 # Contributors
 ____
-Ethan Green: @eeddgg
-Conrad Murphy: @Conrad-Murphy
+* Ethan Green: @eeddgg
+* Conrad Murphy: @Conrad-Murphy
 
