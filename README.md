@@ -9,3 +9,6 @@ Our stretch goals for this project include a bonus feature where the button esca
 
 # Additional Upcoming Feature - Time Limit
 Once the button escapes the application window you only have 60 seconds to press it or it forcibly shuts down the computer. 
+
+# Newer Feature: Distributing Coat to Axolotls
+An app to give coats to axolotls that are also waterproof.
